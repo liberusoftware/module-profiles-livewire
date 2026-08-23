@@ -3,7 +3,7 @@
   "name": "profiles-livewire",
   "display_name": "Profiles Livewire",
   "description": "Profiles livewire presentation adapter.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "presentation",
   "provider": "Liberu\\Foundation\\ProfilesLivewire\\ProfilesLivewireServiceProvider",
   "requires": {
@@ -24,4 +24,3 @@
     "Accessible loading, empty, denied, and failure states"
   ]
 }
-
